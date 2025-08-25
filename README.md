@@ -1,13 +1,17 @@
 # Sales Data Analysis
 A Brief Report on the Analysis of Sales Data
 
-##Table of Contents
+## Table of Contents
+
+
 ## Introduction
+### About
+### Report Overview
 
-
-
-###Data Dictionary
-|**Table**|**Field**|**Description**|
+## Data Cleansing
+Before I analysed my data, I had to clean it first to ensure there were no duplicates, null values and that everything was coherant. The dataset had the following 4 tables: Accounts, Products, Sales Team and Sales Pipeline with thier following metrics and headers described in the data dictionary.
+### Data Dictionary
+|Table|Field|Description|
 |Accounts|Account|Company name|
 |Accounts|Sector|Industry|
 |Accounts|Year Established|Year Established|
@@ -30,3 +34,8 @@ A Brief Report on the Analysis of Sales Data
 |Sales Pipeline|Close Date|Date in which the deal was "Won" or "Lost"|
 |Sales Pipeline|Close Value|Revenue from the deal|
 
+## Power Query
+
+
+# Data Analysis
+# Insights & Recommendations 
