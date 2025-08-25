@@ -2,10 +2,15 @@
 A Brief Report on the Analysis of Sales Data
 
 ## Table of Contents
+- [Introduction](#Introduction)
+- [Data Cleansing](#Data-Cleansing)
+- [Data Analysis](#Data-Analysis)
+- [Insights & Recommendations](#Insights-&-Recommendations)
 
 
 ## Introduction
 ### About
+Breif Description of Report
 ### Report Overview
 
 ## Data Cleansing
@@ -34,7 +39,7 @@ Before I analysed my data, I had to clean it first to ensure there were no dupli
 |Sales Pipeline|Close Date|Date in which the deal was "Won" or "Lost"|
 |Sales Pipeline|Close Value|Revenue from the deal|
 
-## Power Query
+### Power Query
 
 
 # Data Analysis
